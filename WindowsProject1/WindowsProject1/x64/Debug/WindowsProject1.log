@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\paull\Desktop\ravuy\WindowsProject1\WindowsProject1\src\main.cpp(68,127): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\paull\Desktop\ravuy\WindowsProject1\WindowsProject1\src\main.cpp(251,1): warning C4312: "Typumwandlung": Konvertierung von "int" in größeren Typ "HMENU"
+C:\Users\paull\Desktop\ravuy\WindowsProject1\WindowsProject1\src\main.cpp(356): warning C4715: "CreateBackgroundWindow": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\paull\Desktop\ravuy\WindowsProject1\WindowsProject1\src\main.cpp(409): warning C4715: "CreateSelectionWindow": Nicht alle Codepfade geben einen Wert zurück.
+glew32s.lib(glew.obj) : warning LNK4099: PDB "" wurde nicht mit "glew32s.lib(glew.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  WindowsProject1.vcxproj -> C:\Users\paull\Desktop\ravuy\WindowsProject1\x64\Debug\WindowsProject1.exe
